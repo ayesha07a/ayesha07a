@@ -31,8 +31,4 @@
 - [RentScape](https://github.com/ayesha07a/RentScape)
 - [Hire-Per-Hour](https://github.com/ayesha07a/Hire-Per-Hour)
 
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](YOUR-LINKEDIN-URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:YOUR-EMAIL)
+📫 **Email:** ayesha.m07a@gmail.com
