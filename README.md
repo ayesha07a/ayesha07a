@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 - 🎓 CSE Student 
-- 💻 Passionate about coding and problem-solving
+-  coding and problem-solving
 - 🌱 Currently learning Computer Architecture , Computer Networks etc
 ---
 
@@ -23,13 +23,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
----
-
-## 📊 GitHub Stats
-
-![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayesha07a&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha07a&layout=compact&theme=radical)
 
 ---
 
