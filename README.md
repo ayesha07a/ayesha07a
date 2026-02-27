@@ -25,7 +25,7 @@
 ---
 
 ## 📂 My Projects
-- [AI-Course-Career-Switch-Classification](https://github.com/ayesha07a/AI-Course-Career-Switch-Classification)
+- [6v6-Football-Game](https://github.com/ayesha07a/6v6-Football-Game)
 - [VSFS-Metadata-Journaling-](https://github.com/ayesha07a/VSFS-Metadata-Journaling-)
 - [RentScape](https://github.com/ayesha07a/RentScape)
 - [Hire-Per-Hour](https://github.com/ayesha07a/Hire-Per-Hour)
